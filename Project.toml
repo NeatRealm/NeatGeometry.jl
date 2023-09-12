@@ -1,0 +1,14 @@
+name = "NeatGeometry"
+uuid = "784c9b19-4a44-4538-812a-08b5117dd723"
+authors = ["Spirit <i8bou3@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+repo = "https://github.com/NeatRealm/NeatGeometry.jl"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
